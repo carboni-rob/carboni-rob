@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto Carboni
 - 👀 I’m interested in JavaScript, TypeScript and React
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Remix Run
 - 💞️ I’m looking to collaborate on mostly anything
 - 📫 How to reach me: https://www.linkedin.com/in/roberto-carboni/
 
