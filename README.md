@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roberto Carboni
 - 👀 I’m interested in JavaScript, TypeScript and React
-- 🌱 I’m currently learning Remix Run
-- 💞️ I’m looking to collaborate on mostly anything
+- 🌱 I’m currently brushing up Python
+- 💞️ I’m looking to collaborate on socially impactful open-source projects
 - 📫 How to reach me: https://www.linkedin.com/in/roberto-carboni/
 
 <!---
